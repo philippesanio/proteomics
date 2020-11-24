@@ -1,0 +1,21 @@
+Single Letter Code;Three Letter Code;Amino Acid;Mass ;Immonium Mass
+A;Ala;Alanine;71.0371;44.0495
+C;Cys;Cysteine;103.0092;76.0216
+D;Asp;Aspartic Acid;115.0270;88.0393
+E;Glu;Glutamic Acid;129.0426;102.0550
+F;Phe;Phenylalanine;147.0684;120.0808
+G;Gly;Glycine;57.0215;30.0338
+H;His;Histidine;137.0589;110.0713
+I;Ile;Isoleucine;113.0841;86.0964
+K;Lys;Lysine;128.0950;101.1073
+L;Leu;Leucine;113.0841;86.0964
+M;Met;Methionine;131.0405;104.0529
+N;Asn;Asparagine;114.0429;87.0553
+P;Pro;Proline;97.0528;70.0651
+Q;Gln;Glutamine;128.0586;101.0709
+R;Arg;Arginine;156.1011;129.1135
+S;Ser;Serine;87.0320;60.0444
+T;Thr;Threonine;101.0477;74.0600
+V;Val;Valine;99.0684;72.0808
+W;Trp;Tryptophan;186.0793;159.0917
+Y;Tyr;Tyrosine;163.0633;136.0757
