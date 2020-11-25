@@ -16,6 +16,7 @@ class Peptide:
         with open(filename) as reader:
             for untreatedLine in reader:
                 line = untreatedLine.replace("\n", "")
+                line.strip()
                 if line.startswith("BEGIN IONS"):
                     peptide = dict()
                     peptide["m/z"] = list()
